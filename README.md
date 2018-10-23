@@ -3,9 +3,13 @@ Dịch vụ quản trị máy chủ là hình thức cung cấp dịch vụ qu�
 Mọi thông tin cần liên hệ vui lòng liên hệ qua:
 
 Email: support@vnclouds.edu.vn
+
 Telegram:  https://t.me/vouuvhb
+
 Số điện thoại liên hệ tại hoa kỳ: +1 (262) 586-9192 (sms only)
+
 Số điện thoại liên hệ trực tiếp: 
+
 Chú ý chúng tôi không cung cấp dịch vụ này cho các dịch vụ hosting cpanel chúng tôi chỉ quản lý máy chủ riêng. đối với các dịch vụ mất phí quý khách hàng sẽ tùy trường hợp thảo thuận để có tài khoản root của máy chủ mặc định chúng tôi sẽ không bàn giao thông tin này!
 
 #                   Dịch Vụ Miễn Phí 
